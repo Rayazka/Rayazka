@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" width="500px"/>
 </div>
 
-<div id="badges_porto" align="center">
+<!-- <div id="badges_porto" align="center">
   <a href="https://github.com/Rayazka">
     <img src="https://img.shields.io/badge/Portofolio-red?style=for-the-badge&logo=BookStack&logoColor=white" alt="Portofolio Badge"/>
   </a>
-</div>
+</div> -->
 
-<div id="badges_Social" align="center">
+<!-- <div id="badges_Social" align="center">
   <a href="https://www.instagram.com/rafn_ray/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -19,13 +19,13 @@
 
 <div id="profile-view" align="center">
   <img src="https://komarev.com/ghpvc/?username=Rayazka&style=flat-square&color=blue" alt=""/>
-</div>
+</div> -->
 
 <div id="profile-view" align="center">
-  <h1>
+<!--   <h1>
     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h1> -->
   <h3>
     How to code :
   </h3>
@@ -43,7 +43,7 @@
   <img src="https://media.giphy.com/media/20JY76TfKAhR20SfJu/giphy.gif" width="150px"/>
 </div>
 
----
+<!-- ---
 
 ### 👨‍💻 About Me : 
 
@@ -77,7 +77,7 @@ Next to learn :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rayazka&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayazka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 
 
